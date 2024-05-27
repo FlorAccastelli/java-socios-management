@@ -1,4 +1,7 @@
-👥 #Sistema de Gestión de Socios
+
+<div align="center">
+💻 Sistema de Gestión de Socios 💻
+</div>
 
 📝 *Introducción*
 
